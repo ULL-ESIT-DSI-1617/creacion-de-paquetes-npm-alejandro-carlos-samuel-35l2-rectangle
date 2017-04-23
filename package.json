@@ -1,0 +1,22 @@
+{
+  "name": "ull-shape-rectangle-alejandro-carlos-samuel-cosaca",
+  "version": "0.0.0",
+  "description": "Modulo con el rectangulo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-rectangle.git"
+  },
+  "author": "Samuel Valcarcel <samuvalcarcel@gmail.com> (http://cosaca.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-rectangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-rectangle#readme"
+}
