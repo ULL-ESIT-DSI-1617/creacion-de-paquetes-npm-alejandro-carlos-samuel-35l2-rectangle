@@ -1,6 +1,6 @@
 {
   "name": "@alejandro-carlos-samuel/ull-rectangle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Módulo con el rectangulo",
   "main": "lib/rectangle.js",
   "directories": {
