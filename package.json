@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-rectangle#readme",
   "dependencies": {
-    "@alejandro-carlos-samuel/ull-shape": "0.0.1"
+    "@alejandro-carlos-samuel/ull-shape": "0.0.1",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3"
   }
 }
